@@ -1,5 +1,5 @@
 Dr. Greg Wilson is a programmer, author, and educator
-who currently worked for [Deep Genomics](https://deepgenomics.com) in Toronto.
+who currently works for [Deep Genomics](https://deepgenomics.com) in Toronto.
 He co-founded [Software Carpentry](https://carpentries.org),
 which has taught basic software skills to thousands of researchers worldwide,
 and has written, co-written, and edited over a dozen books.
