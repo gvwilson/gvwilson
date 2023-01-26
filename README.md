@@ -7,6 +7,7 @@ Greg is a member of the [Python Software Foundation](https://www.python.org/psf/
 and a recipient of [ACM SIGSOFT's Influential Educator of the Year award](https://www.sigsoft.org/awards/influentialEducatorAward.html).
 
 - [Personal site](https://third-bit.com/)
+- [*Software Design by Example*](https://third-bit.com/sdxjs/)
 - [*Research Software Engineering with Python*](https://merely-useful.tech/py-rse/)
 - [It Will Never Work in Theory](https://neverworkintheory.org/)
 - [*JavaScript for Data Science*](https://third-bit.com/js4ds/)
