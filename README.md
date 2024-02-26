@@ -15,7 +15,6 @@ he currently works for [Deep Genomics](https://deepgenomics.com) as a senior sof
 - [*Teaching Tech Together*](http://teachtogether.tech/)
 - [*The Architecture of Open Source Applications*](http://aosabook.org/en/index.html)
 - [*Beautiful Code*](https://www.oreilly.com/library/view/beautiful-code/9780596510046/)
-
 - [Ten simple rules for writing a technical book](https://doi.org/10.1371/journal.pcbi.1011305)
 - [Twelve quick tips for software design](https://doi.org/10.1371/journal.pcbi.1009809)
 - [Ten quick tips for staying safe online](https://doi.org/10.1371/journal.pcbi.1008563)
