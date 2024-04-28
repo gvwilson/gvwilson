@@ -1,18 +1,19 @@
 Dr. Greg Wilson is a programmer, author, and educator based in Toronto.
 He co-founded [Software Carpentry](https://carpentries.org),
-which has taught basic software skills to thousands of researchers worldwide,
-and has written, co-written, and edited over a dozen books.
+[The Architecture of Open Source Applications](https://aosabook.org),
+and [It Will Never Work in Theory](https://neverworkintheory.org),
+and has written, co-written, and edited fourteen technical books and two for children.
 Greg is a member of the [Python Software Foundation](https://www.python.org/psf/)
 and a recipient of [ACM SIGSOFT's Influential Educator of the Year award](https://www.sigsoft.org/awards/influentialEducatorAward.html);
-he currently works for [Deep Genomics](https://deepgenomics.com) as a senior software engineering manager.
+he currently works for [Plotly](https://plotly.com) as a software engineering manager.
 
 - [Personal site](https://third-bit.com/)
-- [The Querynomicon](https://gvwilson.github.io/sql-tutorial/) (an introduction to SQL for data scientists, in progress)
-- *Software Design by Example* in [JavaScript](https://third-bit.com/sdxjs/) and [Python](https://third-bit.com/sdxpy/)
-- [*Research Software Engineering with Python*](https://merely-useful.tech/py-rse/)
-- [It Will Never Work in Theory](https://neverworkintheory.org/)
+- [*Software Design by Example in Python*](https://third-bit.com/sdxpy/)
+- [*Software Design by Example in JavaScript*](https://third-bit.com/sdxjs/)
+- [*Research Software Engineering with Python*](https://third-bit.com/py-rse/)
 - [*JavaScript for Data Science*](https://third-bit.com/js4ds/)
 - [*Teaching Tech Together*](http://teachtogether.tech/)
+- [It Will Never Work in Theory](https://neverworkintheory.org/)
 - [*The Architecture of Open Source Applications*](http://aosabook.org/en/index.html)
 - [*Beautiful Code*](https://www.oreilly.com/library/view/beautiful-code/9780596510046/)
 - [Ten simple rules for writing a technical book](https://doi.org/10.1371/journal.pcbi.1011305)
