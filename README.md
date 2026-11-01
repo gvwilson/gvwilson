@@ -2,10 +2,9 @@ Dr. Greg Wilson is a programmer, author, and educator based in Toronto.
 He co-founded [Software Carpentry](https://carpentries.org),
 [The Architecture of Open Source Applications](https://aosabook.org),
 and [It Will Never Work in Theory](https://neverworkintheory.org),
-and has written, co-written, and edited fourteen technical books and two for children.
+and has written or edited fourteen technical books and two for children.
 Greg is a member of the [Python Software Foundation](https://www.python.org/psf/)
-and a recipient of [ACM SIGSOFT's Influential Educator of the Year award](https://www.sigsoft.org/awards/influentialEducatorAward.html);
-he currently works for [Plotly](https://plotly.com) as a software engineering manager.
+and a recipient of [ACM SIGSOFT's Influential Educator of the Year award](https://www.sigsoft.org/awards/influentialEducatorAward.html).
 
 - [Personal site](https://third-bit.com/)
 - [*Software Design by Example in Python*](https://third-bit.com/sdxpy/)
